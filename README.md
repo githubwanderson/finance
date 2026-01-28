@@ -1,16 +1,16 @@
-# Finance Project
+# Personal Finance
 
-Um projeto de sistema financeiro com frontend React e backend.
+Um projeto de sistema de finanças pessoais com frontend React e backend.
 
 ## Estrutura do Projeto
 
 ```
-Finance/
+Personal-Finance/
 ├── frontend/          # Aplicação React com Vite
 │   ├── src/
 │   ├── public/
 │   └── package.json
-├── backend/           # Backend da aplicação
+├── backend/           # Backend da aplicação de finanças pessoais
 └── README.md
 ```
 
