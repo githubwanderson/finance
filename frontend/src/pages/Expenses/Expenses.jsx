@@ -1,10 +1,16 @@
 import Table from "./table";
+import Form from "./Form";
 
 export default function Expenses() {
 
-    return (
-        <div>
-            <Table />
+    return (        
+        <div>      
+            <div>
+                <Form />
+            </div>  
+            <div>
+                <Table />
+            </div>
         </div>
     );
 }
